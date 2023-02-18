@@ -1,0 +1,14 @@
+[
+    {
+        "validity": "demo",
+        "name": "demo",
+        "phone": "demo",
+        "place": "khulna",
+        "subject": "Math,English,Science,Others",
+        "qualification": "demo ",
+        "point": 50,
+        "salary": 1000,
+        "fb": "https://www.facebook.com/",
+        "email": "#"
+    }
+]
