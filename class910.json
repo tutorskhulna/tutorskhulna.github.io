@@ -34,5 +34,17 @@
         "salary": 2000,
         "fb": "https://www.facebook.com/profile.php?id=100068175450120&mibextid=ZbWKwL",
         "email": "#"
+    },
+    {
+        "validity": "19 May ,2023",
+        "name": "Al Mubin Shams  ",
+        "phone": "01407615487",
+        "place": "7no Dhilkhula Road tutpara khulna ",
+        "subject": "একাউন্টিং, ফিনেন্স",
+        "qualification": "BBA in khulna university ",
+        "point": 50,
+        "salary": 3500,
+        "fb": "https://www.facebook.com/almubin.shams?mibextid=ZbWKwL",
+        "email": "#"
     }
 ]
