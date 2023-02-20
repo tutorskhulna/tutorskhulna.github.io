@@ -10,5 +10,29 @@
         "salary": 1500,
         "fb": "https://www.facebook.com/profile.php?id=100088219984561",
         "email": "#"
+    },
+    {
+        "validity": "20 May,2023",
+        "name": "জয়ন্তী সরকার ",
+        "phone": "1818926427",
+        "place": "khulna",
+        "subject": "গণিত, ইংরেজি, বিজ্ঞান, অন্যান্য",
+        "qualification": "বিএল কলেজ,অনার্স প্রথম বর্ষ, বাংলা বিভাগ",
+        "point": 50,
+        "salary": 2500,
+        "fb": "https://www.facebook.com/profile.php?id=100031789119665",
+        "email": "#"
+    },
+    {
+        "validity": "20 May,2023",
+        "name": "Tajul Islam shimul",
+        "phone": "01643210737, 01705028487",
+        "place": "khulna",
+        "subject": "গণিত, ইংরেজি, বিজ্ঞান, অন্যান্য",
+        "qualification": "Govt BL college, Honours ",
+        "point": 50,
+        "salary": 2000,
+        "fb": "https://www.facebook.com/profile.php?id=100090288305027",
+        "email": "#"
     }
 ]
