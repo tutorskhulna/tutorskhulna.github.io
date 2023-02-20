@@ -46,5 +46,17 @@
         "salary": 3500,
         "fb": "https://www.facebook.com/almubin.shams?mibextid=ZbWKwL",
         "email": "#"
+    },
+     {
+        "validity": "20 May,2023",
+        "name": "Efat Jahan",
+        "place": "khulna",
+         "email": "#",
+        "phone": "01736304432",
+        "fb": "https://www.facebook.com/efat.jahan.37?mibextid=ZbWKwL",
+        "qualification": "Khulna medical college (MBBS 2nd year)",
+        "salary": 4000,
+        "subject": "রসায়ন, জীববিজ্ঞান",
+        "point": 50 
     }
 ]
