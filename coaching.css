@@ -1,0 +1,113 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-color: #001014;
+}
+
+header {
+    background-color: #333;
+    color: #fcfcfc;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 5px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+main {
+    margin: 2px;
+}
+
+#teachers-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+.teacher-card {
+    width: 350px;
+    margin: 10px;
+    border: 7px double #787a8e;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-radius: 10%;
+    background-color: rgb(255, 255, 255);
+}
+
+.teacher-card img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    margin-bottom: 10px;
+}
+
+.teacher-card h1 {
+    margin: 0;
+    font-size: 22px;
+    text-align: center;
+}
+
+.teacher-card h2 {
+    margin: 0;
+    font-size: 21px;
+    text-align: center;
+    color: rgb(16, 57, 171);
+    padding-bottom: 8px;
+}
+
+.teacher-card h3 {
+    margin: 0;
+    font-size: 22px;
+    color: rgb(4, 128, 17);
+    text-align: center;
+}
+
+.teacher-card h4 {
+    margin: 0;
+    font-size: 19px;
+    color: rgb(24, 31, 55);
+}
+
+.teacher-card p {
+    margin: 0;
+    font-size: 20px;
+    padding-bottom: 15px;
+    color: rgb(6, 23, 1);
+
+}
+
+.teacher-card button {
+    margin-top: 10px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.teacher-card a {
+    margin-left: 100px;
+    margin-bottom: 5px;
+    text-decoration: none;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
