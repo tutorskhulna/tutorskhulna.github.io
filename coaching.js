@@ -69,7 +69,7 @@ fetch('coaching.json')
       // Add a clickable link to the teacher's Facebook profile to the card
       const fb = document.createElement('a');
       fb.href = teacher.fb;
-      fb.textContent = 'Facebook Id Link';
+      fb.textContent = 'Tutors Facebook Id Link';
       fb.target = '_blank'; // Open the link in a new tab
       const facebookId = document.createElement('p');
       facebookId.textContent = '';
