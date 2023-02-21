@@ -34,5 +34,17 @@
         "salary": 2000,
         "fb": "https://www.facebook.com/profile.php?id=100090288305027",
         "email": "#"
+    },
+     {
+        "validity": "21 May,2023",
+        "name": "মোঃ তহিদুজ্জামান ",
+        "place": "khulna",
+         "email": "#",
+        "phone": "০১৯১৩-৪০৫৫২৮",
+        "fb": "https://www.facebook.com/tahid.zaman.5?mibextid=ZbWKwL",
+        "qualification": "বি.বি.এ এবং এম.বি.এ কমপ্লিট (বি.এল কলেজ)",
+        "salary": 3000,
+        "subject": "গণিত, ইংরেজি, বিজ্ঞান, অন্যান্য",
+        "point": 50 
     }
 ]
