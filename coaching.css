@@ -94,7 +94,7 @@ main {
 }
 
 .teacher-card a {
-    margin-left: 100px;
+    margin-left: 50px;
     margin-bottom: 5px;
     text-decoration: none;
     text-align: center;
@@ -116,11 +116,11 @@ main {
 }
 
 
-@media only screen and (min-width: 600px) {
+@media only screen and (min-width: 700px) {
 
     /* For tablets: */
     .teacher-card {
-        width: 300px;
+        width: 350px;
         margin: 10px;
         border: 7px double #787a8e;
         padding: 10px;
@@ -129,5 +129,9 @@ main {
         justify-content: space-between;
         border-radius: 10%;
         background-color: rgb(255, 255, 255);
+    }
+
+    .teacher-card a {
+        margin-left: 100px;
     }
 }
