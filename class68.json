@@ -10,5 +10,29 @@
         "salary": 4000,
         "subject": "বিজ্ঞান",
         "point": 50 
+    },
+     {
+        "validity": "22 Feb,2024",
+        "name": "MD Ariful Islam ",
+        "place": "khulna",
+         "email": "#",
+        "phone": "01980729511",
+        "fb": "#",
+        "qualification": "Government sundarban college Khulna ( English department)",
+        "salary": 3000,
+        "subject": "গণিত, ইংরেজি, বিজ্ঞান, অন্যান্য",
+        "point": 50 
+    },
+    {
+        "validity": "22 Feb,2024",
+        "name": "সুমাইয়া জাহান এ্যানি ",
+        "place": "khulna",
+         "email": "#",
+        "phone": "01406439068, 01957992986",
+        "fb": "https://www.facebook.com/profile.php?id=100081175666651",
+        "qualification": "অনার্স (boyra mohila college)",
+        "salary": 2500,
+        "subject": "গণিত, ইংরেজি, বিজ্ঞান, অন্যান্য",
+        "point": 50 
     }
  ]
