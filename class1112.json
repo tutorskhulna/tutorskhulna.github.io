@@ -33,7 +33,7 @@
         "salary": 4000,
         "subject": "পদার্থবিজ্ঞান, উচ্চতর গণিত",
         "validity": "26/08/23",
-        "point": 50,
+        "point": 50
     },
     {
         "name": "Moynuddin ",
@@ -45,7 +45,7 @@
         "salary": 3500,
         "subject": "সাধারণ গণিত, ইংরেজি, ICT",
         "validity": "26/05/23",
-        "point": 50,
+        "point": 50
     },
     {
         "name": "Mehedi Hasan",
@@ -57,6 +57,6 @@
         "salary": 5000,
         "subject": "পদার্থবিজ্ঞান, রসায়ন, জীববিজ্ঞান, উচ্চতর গণিত, সাধারণ গণিত, ICT",
         "validity": "26/02/24",
-        "point": 50,
+        "point": 50
     }
 ]
