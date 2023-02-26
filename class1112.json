@@ -10,5 +10,17 @@
         "salary": 4000,
         "fb": "https://www.facebook.com/profile.php?id=100073398456045",
         "email": "#"
+    },
+    {
+        "validity": "19 May ,2023",
+        "name": "নাফিস হাসান সিফাত",
+        "phone": "01746100439",
+        "place": "khulna",
+        "subject": "পদার্থবিজ্ঞান,গণিত",
+        "qualification": "খুলনা বিশ্ববিদ্যালয়",
+        "point": 50,
+        "salary": 3000,
+        "fb": "https://www.facebook.com/nafis.hasan.98871?mibextid=ZbWKwL",
+        "email": "#"
     }
 ]
