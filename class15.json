@@ -70,5 +70,41 @@
         "subject": "গণিত, ইংরেজি, বিজ্ঞান, অন্যান্য",
         "validity": "01/09/23",
         "point": 50
+    },
+    {
+        "name": "Jeba Foujia Mouly",
+        "place": "Khulna",
+        "email": "#",
+        "phone": "01625900538, 01768401305",
+        "fb": "https://www.facebook.com/mou.ly.31105?mibextid=ZbWKwL",
+        "qualification": "Ad din akiz medical College, Khulna( MBBS 3rd year) ",
+        "salary": 2500,
+        "subject": "গণিত, বিজ্ঞান, অন্যান্য",
+        "validity": "13/06/23",
+        "point": 50
+    },
+     {
+        "name": "Anik Ghosh ",
+        "place": "Khulna",
+        "email": "#",
+        "phone": "01759364173",
+        "fb": "https://www.facebook.com/anik.ghosh.564813?mibextid=ZbWKwL",
+        "qualification": "BA hons 1st year, English discipline, khulna university ",
+        "salary": 3500,
+        "subject": "ইংরেজি, বিজ্ঞান, অন্যান্য",
+        "validity": "13/09/23",
+        "point": 50
+    },
+    {
+        "name": "শেখ মুক্তাদির রহমান",
+        "place": "Khulna",
+        "email": "#",
+        "phone": "01886608600, 01641474675",
+        "fb": "https://www.facebook.com/KousikHussain/",
+        "qualification": "সরকারি পি.সি কলেজ, বাগেরহাট (মাস্টার্স) ",
+        "salary": 2500,
+        "subject": "গণিত, ইংরেজি, বিজ্ঞান, অন্যান্য",
+        "validity": "13/03/24",
+        "point": 50
     }
 ]
